@@ -361,7 +361,8 @@ a{
 
 .video .maquillaje{
   height: 40vh;
-  width: 70vh;
+  width: 100vh;
+  padding-left: 200px;
 }
 
 
@@ -388,8 +389,9 @@ a{
 /*INICIO DE CARD*/
 
     .objetivo{
-      padding: 50px 50px;
-     width: 500px;
+    padding: 50px 50px;
+    padding-left: 250px;
+     width: 700px;
      height: 800px;
      
      
